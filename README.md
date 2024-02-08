@@ -1,6 +1,6 @@
 # discord-emoji-stealer
 emoji stealer, on self bot
 
-## requirements
+# requirements
 * requests
-# discord.py-self
+* discord.py-self
